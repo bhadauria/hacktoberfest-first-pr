@@ -20,6 +20,8 @@
 
 [Franco Sanllehi](https://github.com/DmACKGL)
 
+[Mayank Shakya](https://github.com/mayanksh99)
+
 [Bhadauria Saurav](https://github.com/bhadauria)
 
-[Mayank Shakya](https://github.com/mayanksh99)
+
